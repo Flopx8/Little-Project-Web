@@ -1,7 +1,9 @@
 # Little-Project-Web
-Pequeno projeto web feito em HTML/CSS/FLETBOX
+Pequeno projeto web feito em HTML5 /CSS3 / FLEXBOX
 
+Esse foi o meu primeiro contato com o HTML5 / CSS3 e FLEXBOX
 
+SITE TOTALMENTE DESENVOLVIDO E RESPONSIVO OPEN SOURCE PARA VOCÊS ANALISAREM
 
 
 <hr>
